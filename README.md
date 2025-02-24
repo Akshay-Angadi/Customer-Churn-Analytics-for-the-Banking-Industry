@@ -1,7 +1,7 @@
 # Customer Churn Analysis
 
 ## Overview  
-Customer churn is a critical challenge for businesses, impacting revenue and long-term growth. This project aims to analyze churn patterns using SQL and data visualization techniques. By examining key customer attributes such as credit scores, balances, product engagement, and demographics, we derive actionable insights to improve retention strategies.  
+Customer churn is a critical challenge for businesses, impacting revenue and long-term growth. This project aims to analyze churn patterns using SQL. By examining key customer attributes such as credit scores, balances, product engagement, and demographics, we derive actionable insights to improve retention strategies.  
 
 ## Objective  
 - Identify factors influencing customer churn.  
